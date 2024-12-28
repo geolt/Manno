@@ -140,4 +140,4 @@ while True:
 
 ---
 
-This approach combines interactive, playful, and adaptive elements, making learning feel like interacting with a quirky, curious cat. Let me know if you'd like additional features or code enhancements! 🐾
+This approach combines interactive, playful, and adaptive elements, making learning feel like interacting with a quirky, curious cat. 
